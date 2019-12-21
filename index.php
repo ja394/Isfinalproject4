@@ -1,5 +1,5 @@
 <?php
-require('model/database.sql');
+require('model/database.php');
 require('model/accounts_db.php');
 require('model/questions_db.php');
 session_start();
